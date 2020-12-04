@@ -6,7 +6,7 @@ using namespace std;
 /*
 为简化c++字符串编程
 此头文件提供extstr对象
-(c)321FreeWeb @321.vipgz1.idcfengye.com 2020
+(c)wzx000000@outlook.com 2020
 */
 class extstr
 {
